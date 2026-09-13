@@ -200,7 +200,4 @@ node --check www/devices_cheat_menu.js
 ## Aviso sobre os arquivos do jogo
 
 Este repositório contém uma adaptação técnica de arquivos fornecidos pelo
-proprietário do checkout. **Devices Tycoon**, seus assets e o runtime original
-continuam pertencendo aos respectivos autores. Não há concessão automática de
-licença para redistribuição pública. Mantenha o repositório privado e publique
-assets somente se possuir autorização dos titulares.
+proprietário do checkout. **Devices Tycoon**
