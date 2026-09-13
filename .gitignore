@@ -1,0 +1,22 @@
+# Runtime local
+linux_page.log
+__pycache__/
+*.py[cod]
+
+# Perfis e saves locais
+chromium-profile/
+.profile/
+
+# Pacotes e extrações de origem
+*.apk
+*.apks
+*.xapk
+*.zip
+
+# Arquivos temporários/editor
+*.tmp
+*.bak
+*~
+.DS_Store
+.idea/
+.vscode/

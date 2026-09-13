@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Devices Tycoon
+Comment=Jogar Devices Tycoon no Linux
+Exec=/home/gullin/Downloads/device-linux/run-linux.sh
+Icon=/home/gullin/Downloads/device-linux/www/icons/icon-512.png
+Terminal=false
+Categories=Game;Simulation;
+StartupNotify=true
+StartupWMClass=brave-www.roasterygames.localhost__index_linux.html

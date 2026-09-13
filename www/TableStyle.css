@@ -1,0 +1,46 @@
+
+/* The class 'resultswrap' is used for the HTML element itself. */
+.resultswrap {
+	color: white;
+	border: 0px;		/* Add a black border */
+	overflow-y: auto;				/* Allow vertical scrolling */
+	background: transparent;
+}
+
+/* The class 'resultstable' is used for the <table> element. */
+.resultstable {
+	width: 100%;					/* Fill up the width of the HTML element */	
+	border-collapse: collapse;		/* Allow cell borders to collapse */
+}
+
+/* Highlight the table header with a grey background */
+.resultstable thead {
+	background-color: #e8e8e8;
+}
+
+/* For all table cells, show a border and add some padding. */
+.resultstable td,
+.resultstable th {
+	border: px solid #ddd;
+	padding: 0.3em;
+}
+
+/* Highlight alternate table rows */
+.resultstable tr:nth-child(even) {
+	background: rgba(255, 255, 255, 0.2);
+}
+
+/* Show the score column bold, and the time column italic */
+.resultstable td.name {
+	font-family: GaldSqRgRegular, white;	/* Match Arial on the Text object */
+	text-align: left;
+	color: white;
+	font-size: 42px;
+}
+
+.resultstable td.score {
+	font-family: GaldSqLtRegular, white;	/* Match Arial on the Text object */
+	text-align: right;
+	color: white;
+	font-size: 42px;
+}
